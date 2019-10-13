@@ -1,0 +1,1 @@
+Ce projet vise à créer un robot équipé d'une perche capable de suivre une ligne tracée au sol dans le but d'aider les personnes ayant du mal à se déplacer (pour des problèmes de vision notamment) à vivre plus confortablement leur handicap.
